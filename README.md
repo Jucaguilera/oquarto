@@ -76,7 +76,7 @@ Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **A
 
 **José Lucas Aguilera**  
 Produtor musical e analista de dados em transição de carreira  
-[LinkedIn](https://www.linkedin.com/in/jucaguilera) | [GitHub](https://github.com/Jucaguilera)
+[LinkedIn](https://www.linkedin.com/in/lucas-aguilera2/) | [GitHub](https://github.com/Jucaguilera)
 
 ---
 
