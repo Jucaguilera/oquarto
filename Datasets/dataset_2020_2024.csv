@@ -1,0 +1,33 @@
+ID,Nome_cliente,Idade,Serviço,ID_Obra,Nome_obra,Tipo_obra,Valor,Dificuldade,Estilo,Origem,Surgimento,Data início,Status,Pagamento
+1,Rodrigo Matheus,,Produção Completa,1,Quem diria,Música_estúdio,700,3,MPB,Rio de Janeiro,Indicação,2021-08-26,Completo,Realizado
+5,João Trilheiro,,Produção Completa,6,Ventura,Audiovisual,500,2,MPB/Rock,Rio de Janeiro,Indicação,2023-02-12,Completo,Realizado
+6,Hiran Matheus,31.0,Produção Completa,7,Pelúcia,Música_estúdio,720,5,POP,Niterói,Indicação,2023-08-31,Completo,Realizado
+12,Vini,43.0,Produção Completa,18,Anjo Bom,Música_estúdio,450,5,Rock,Curitiba,,2020-09-01,Completo,Realizado
+20,Maria Calmaria,32.0,Produção Completa,41,Depois do Carnaval,Música_estúdio,500,3,MPB,Rio de Janeiro,Indicação,2022-10-01,Completo,Realizado
+20,Maria Calmaria,32.0,Produção Completa,42,Peixe,Música_estúdio,500,3,MPB,Rio de Janeiro,Indicação,2022-12-07,Completo,Realizado
+20,Maria Calmaria,32.0,Produção Completa,43,Cobra Criada,Música_estúdio,500,3,MPB,Rio de Janeiro,Indicação,2023-04-11,Completo,Realizado
+20,Maria Calmaria,32.0,Produção Completa,44,Jurema,Música_estúdio,500,3,MPB,Rio de Janeiro,Indicação,2023-06-30,Completo,Realizado
+20,Maria Calmaria,32.0,Produção Completa,45,Margô,Música_estúdio,500,3,MPB,Rio de Janeiro,Indicação,2023-08-02,Completo,Realizado
+20,Maria Calmaria,32.0,Produção Completa,46,Almoço,Música_estúdio,500,3,MPB,Rio de Janeiro,Indicação,2024-03-15,Completo,Realizado
+21,Leonardo Mariano,35.0,Produção Completa,47,Toque toque,Música_estúdio,633,2,Samba,Niterói,Anúncio_insta,2023-12-16,Completo,Realizado
+21,Leonardo Mariano,35.0,Produção Completa,48,Escorpião,Música_estúdio,633,2,Pop,Niterói,Anúncio_insta,2024-01-06,Completo,Realizado
+21,Leonardo Mariano,35.0,Produção Completa,49,Tempestade,Música_estúdio,633,4,MPB,Niterói,Anúncio_insta,2024-01-08,Completo,Realizado
+22,Arthur Riguete,28.0,Produção Completa,57,Lua em capricórnio,Música_estúdio,450,5,Pop,Niterói,Indicação,2021-02-02,Completo,Realizado
+22,Arthur Riguete,28.0,Produção Completa,58,Lobos,Música_estúdio,700,4,Pop,Niterói,Anúncio_insta,2022-11-02,Completo,Realizado
+24,Thiago Francisco,,Produção Completa,60,,Música_estúdio,600,3,Pop,São Paulo,Anúncio_insta,2023-10-10,Incompleto,Realizado
+26,Paulo Fernando,38.0,Produção Completa,63,,Música_estúdio,675,3,R&B,São Gonçalo,Google,2021-11-11,Incompleto,Realizado
+26,Paulo Fernando,38.0,Produção Completa,64,,Música_estúdio,675,3,R&B,São Gonçalo,Google,2021-11-30,Incompleto,Realizado
+29,Ivo Souza,,Produção Completa,69,Pernas pro ar,Música_estúdio,333,4,MPB,Niterói,Indicação,2023-11-27,Completo,Realizado
+29,Ivo Souza,,Produção Completa,70,,Música_estúdio,333,4,MPB,Niterói,Indicação,2023-11-27,Completo,Realizado
+29,Ivo Souza,,Produção Completa,71,,Música_estúdio,333,4,MPB,Niterói,Indicação,2023-11-27,Completo,Realizado
+30,Helena,,Produção Completa,72,,Música_estúdio,600,4,Rock,Rio de Janeiro,Indicação,2023-11-09,Incompleto,Realizado
+31,Rodrigo Moraes,33.0,Gravação,73,,Música_estúdio,300,3,Rock,Rio de Janeiro,Indicação,2023-08-18,Completo,Realizado
+31,Rodrigo Moraes,33.0,Gravação,74,,Música_estúdio,300,3,Rock,Rio de Janeiro,Indicação,2023-10-26,Completo,Realizado
+32,Alex Manguito,34.0,Produção Completa,76,,Música_estúdio,600,5,Pagode,Rio de Janeiro ,Anúncio_insta,2023-11-13,Completo,Realizado
+32,Alex Manguito,34.0,Gravação,77,,Música_estúdio,120,3,Sertanejo,Rio de Janeiro ,Anúncio_insta,2024-05-22,Completo,Realizado
+32,Alex Manguito,34.0,Mix_master,77,,Música_estúdio,240,5,Sertanejo,Rio de Janeiro ,Anúncio_insta,2024-05-23,Completo,Realizado
+33,Matheus Mabel,,Produção Completa,78,,Música_estúdio,500,4,MPB,Rio de Janeiro ,Indicação,2024-01-29,Completo,Realizado
+35,Gabi Nenem,,Produção Completa,80,,Música_estúdio,600,3,Pop,Rio de Janeiro,Indicação,2021-08-04,Incompleto,Realizado
+36,Josenildo Vanio,,Produção Completa,81,,Música_estúdio,600,3,MPB,,Facebook,2023-09-08,Completo,Realizado
+37,Adriano Abmer,,Produção Completa,82,,Música_estúdio,600,5,Musical,São Paulo,Anúncio_insta,2023-10-09,Incompleto,Realizado
+38,Sofia Oliver,,Produção Completa,83,Niterói de Bicicleta,Música_estúdio,700,2,MPB,Niterói,Indicação,2023-12-06,Completo,Realizado
