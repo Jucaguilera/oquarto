@@ -27,6 +27,13 @@ Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **A
 
 ---
 
+##  Visualizações no Looker Studio
+
+> **Dashboard Interativo:**  
+> [ Acessar no Looker Studio](https://lookerstudio.google.com/reporting/2e296e0d-c49a-4423-92de-e403f6873b2b)
+
+---
+
 ##  Arquivos do projeto
 
 ###  Notebooks
@@ -37,8 +44,9 @@ Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **A
 
 ###  Datasets
 
-- [`dataset_2020_2024.csv`](./Datasets/dataset_2020_2024.csv) — dados filtrados para análise pré-crescimento
 - [`Análise_produção BI - DADO BRUTO.csv`](./Datasets/Análise_produção%20BI%20-%20DADO%20BRUTO.csv) — base completa com registros de serviços e faturamento
+- [`dataset_2020_2024.csv`](./Datasets/dataset_2020_2024.csv) — dados filtrados para análise pré-crescimento
+
 
 
 ---
@@ -61,13 +69,6 @@ Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **A
 - Como transformar dados brutos em estratégias de crescimento
 - Como comunicar insights de forma visual e acessível com Looker Studio
 - Como documentar e publicar um projeto no GitHub de forma profissional
-
----
-
-##  Visualizações no Looker Studio
-
-> **Dashboard Interativo:**  
-> [ Acessar no Looker Studio](https://lookerstudio.google.com/reporting/2e296e0d-c49a-4423-92de-e403f6873b2b)
 
 ---
 
