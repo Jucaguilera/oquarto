@@ -32,13 +32,13 @@ Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **A
 ###  Notebooks
 
 - [`analise_insights_2020_2024.ipynb`](./Notebooks/analise_insights_2020_2024.ipynb) — análise até maio de 2024
-- [`Analise_jan24_jan25.ipynb`](./Analise_jan24_jan25.ipynb) — análise de crescimento do faturamento recente
-- [`analise_historica.ipynb`](./analise_historica.ipynb) — crescimento histórico de 2020 até jan/2025
+- [`Analise_jan24_jan25.ipynb`](./Notebooks/Analise_jan24_jan25.ipynb) — análise de crescimento do faturamento recente
+- [`analise_historica.ipynb`](./Notebooks/analise_historica.ipynb) — crescimento histórico de 2020 até jan/2025
 
 ###  Datasets
 
-- [`dataset_2020_2024.csv`](./dataset_2020_2024.csv) — dados filtrados para análise pré-crescimento
-- [`Análise_produção BI - DADO BRUTO.csv`](./Análise_produção%20BI%20-%20DADO%20BRUTO.csv) — base completa com registros de serviços e faturamento
+- [`dataset_2020_2024.csv`](./Datasets/dataset_2020_2024.csv) — dados filtrados para análise pré-crescimento
+- [`Análise_produção BI - DADO BRUTO.csv`](./Datasets/Análise_produção%20BI%20-%20DADO%20BRUTO.csv) — base completa com registros de serviços e faturamento
 
 
 ---
