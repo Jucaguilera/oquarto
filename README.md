@@ -31,7 +31,7 @@ Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **A
 
 ###  Notebooks
 
-- [`analise_insights_2020_2024.ipynb`](./analise_insights_2020_2024.ipynb) — análise até maio de 2024
+- [`analise_insights_2020_2024.ipynb`](./Notebooks/analise_insights_2020_2024.ipynb) — análise até maio de 2024
 - [`Analise_jan24_jan25.ipynb`](./Analise_jan24_jan25.ipynb) — análise de crescimento do faturamento recente
 - [`analise_historica.ipynb`](./analise_historica.ipynb) — crescimento histórico de 2020 até jan/2025
 
