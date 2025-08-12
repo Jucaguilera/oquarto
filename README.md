@@ -6,7 +6,7 @@ Este projeto apresenta uma análise completa da evolução do faturamento da O//
 
 ##  Motivação
 
-Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **Análise de Dados**, antes de ingressar na EBAC e me formar na área. Como estudo prático, utilizei dados reais da minha gravadora, O//QUARTO Records, para entender padrões de comportamento, origem dos clientes, estilos musicais mais lucrativos e oportunidades de crescimento.
+Em **fevereiro de 2024**, iniciei minha jornada de aprendizado autodidata em **Análise de Dados**, antes de ingressar na EBAC e me formar na área. Como estudo prático, utilizei dados reais da produtora O//QUARTO Records, para entender padrões de comportamento, origem dos clientes, estilos musicais mais lucrativos e oportunidades de crescimento.
 
 ---
 
